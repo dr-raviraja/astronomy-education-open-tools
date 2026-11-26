@@ -5,7 +5,6 @@ Open-source, tactile astronomy lab templates, printable SVG/PDF generators, and 
 Designed for resource-constrained classrooms, rural schools, and public sky-watching sessions where commercial telescopes or digital planetariums are unavailable.
 
 ## Modules Included
-## Modules Included
 1. **`sundial_17_5N/`** – Python SVG generator for a horizontal sundial calibrated to Hyderabad's latitude ($\phi = 17.5^\circ\text{ N}$), including gnomon geometry and bilingual educator notes.
 2. **`spectroscope_cardboard/`** – Step-by-step construction guide and emission/absorption line lab using recycled cardboard and a CD/DVD diffraction grating.
 3. **`crater_impact_lab/`** – Bilingual (English & Telugu) lunar cratering worksheet (sand + limestone powder trays) exploring projectile energy, ejecta rays, and central peaks.
